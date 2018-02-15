@@ -1,0 +1,43 @@
+Viewing a difference beetwen two versions helps to solve the problem in a time efficient way. 
+I can concentrate only on the differences while the rest of the file is taken out of my sight.
+It makes debugging less frustrating and helps to succeed - finalize the project.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can work faster
+I can work on different versions and compare different solutions on any stage
+I can have access to whole history of my work, form every place in the world, everytime
+I can easily collaborate with others
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manual saving
+
+Pros:
+- you decide when the project is saved - you save only what should be saved
+
+Cons:
+- there may be a problem with the device you are working on or the electricity can go down - and you cannot save plus your work may not be saved although you managed to do a lot
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+it depends from the purpose of the system - if its made for working on one file - like Google Docs - it works only on one at a time.
+
+Git is made for programmers so it is prepared to support their work the best way possible and it's capable of working on many files at a time.
+
+H
+ow can you use the commands git log and git diff to view the history of files?
+I dont understand this questions... I just did it :(
+
+
+How might using version control make you more confident to make changes that could break something?
+I can always go back to previous - working version. It makes me more willing to experiment :)
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I do not feel good in Git yet as there were maaany problems with the previous exercise which I handled manually... 
+So tryiny is not an option while I cannot open Sublime for example...
